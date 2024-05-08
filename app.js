@@ -1,4 +1,3 @@
-
-
-var friendsName = ["sukaina", "ashfa", "noveen", "kanwal"];
-friendsName.forEach(function (friendName) { return console.log("hello ".concat(friendName, ",how are you?")); });
+"use strict";
+let tranportmodes = ["aeroplane", "ship", "car", "bike"];
+tranportmodes.forEach(mode => console.log(`I would like  ${mode}`));
