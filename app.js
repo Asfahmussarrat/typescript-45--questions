@@ -1,2 +1,5 @@
-var personname = "Eric";
-console.log("Hello ".concat(personname, ":would you like to learn python?"));
+"use strict";
+let personName = "asfah mussarrat";
+console.log(personName.toLowerCase());
+console.log(personName.toUpperCase());
+console.log(personName.replace(/\b\w/g, (char) => char.toUpperCase()));
