@@ -1,5 +1,5 @@
 {
-  "name": "assignment-seventeen",
+  "name": "assignment-eighteen",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^20.11.24"
+    "@types/node": "^20.11.23"
   }
 }
