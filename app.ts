@@ -1,8 +1,2 @@
-//friends name in array
-let friendsName:string[] = ["sukaina","ashfa","noveen","kanwal"];
-for(let i = 0; i < friendsName.length; i++){
-    console.log(friendsName[i]);
-
-}
-//from forEach
-friendsName.forEach(name => console.log(name));
+let friendsName = ["sukaina","ashfa","noveen","kanwal"];
+friendsName.forEach(friendName => console.log(`hello ${friendName},how are you?`));

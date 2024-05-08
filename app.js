@@ -1,8 +1,4 @@
-"use strict";
-//friends name in array
-let friendsName = ["sukaina", "ashfa", "noveen", "kanwal"];
-for (let i = 0; i < friendsName.length; i++) {
-    console.log(friendsName[i]);
-}
-//from forEach
-friendsName.forEach(name => console.log(name));
+
+
+var friendsName = ["sukaina", "ashfa", "noveen", "kanwal"];
+friendsName.forEach(function (friendName) { return console.log("hello ".concat(friendName, ",how are you?")); });
