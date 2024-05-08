@@ -1,3 +1,2 @@
-"use strict";
-let tranportmodes = ["aeroplane", "ship", "car", "bike"];
-tranportmodes.forEach(mode => console.log(`I would like  ${mode}`));
+var guestslist = ["sukaina", "ashfa", "noveen", "kanwal"];
+guestslist.forEach(function (guest) { return console.log("salam ".concat(guest, ",would you like to have dinner with me?")); });

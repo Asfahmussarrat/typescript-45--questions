@@ -1,2 +1,2 @@
-let tranportmodes = ["aeroplane","ship","car", "bike"];
-tranportmodes.forEach(mode => console.log (`I would like  ${mode}`));
+let guestslist = ["sukaina","ashfa","noveen","kanwal"];
+guestslist.forEach(guest =>console.log(`salam ${guest},would you like to have dinner with me?`));
