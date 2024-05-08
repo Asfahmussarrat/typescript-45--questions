@@ -1,3 +1,4 @@
-console.log(
-  'Albert Einstine once said," A person who never make a mistake never tried anything new."'
-);
+let famousPerson = "Albert Einstine";
+
+let message = `${famousPerson} once said , "A person who never made a mistake never tried new"`;
+console.log(message);
