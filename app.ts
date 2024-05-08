@@ -1,2 +1,3 @@
-console.log("Hello World");
+let personname: string="Eric";
+console.log(`Hello ${personname}:would you like to learn python?`);
 
