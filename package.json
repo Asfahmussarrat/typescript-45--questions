@@ -1,5 +1,5 @@
 {
-  "name": "assignment-thirty-one",
+  "name": "assignment-32",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@types/node": "^20.11.27"
+  "devDependencies": {
+    "@types/node": "^20.12.10"
   }
 }
